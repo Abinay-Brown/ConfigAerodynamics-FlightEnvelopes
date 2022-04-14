@@ -1,5 +1,8 @@
 # ConfigAerodynamics-FlightPerformance
 
+Boeing 777 Lift Distribution Comparison & Aerodynamic Results via VSPaero
+![image](https://user-images.githubusercontent.com/103686807/163479598-a292dafd-228c-41ae-9d91-4c16127f8287.png)
+
 ![image](https://user-images.githubusercontent.com/103686807/163476728-9b44709e-21e8-41d5-8545-79a24a2d3d41.png)
 
 Transonic Drag Rise & Drag Polar
